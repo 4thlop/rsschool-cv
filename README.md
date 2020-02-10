@@ -1,10 +1,10 @@
 # rsschool-cv
 
 1. Vladimir Ganeev
-2. 4thlop@gmail.com, https://t.me/Vahioptines
-3. want to be able to frontend
-4. js, c#, sql, git
-5. none
-6. none
-7. AltSTU 2017
-8. 
+1. 4thlop@gmail.com, https://t.me/Vahioptines
+1. want to be able to frontend
+1. js, c#, sql, git
+1. none
+1. none
+1. AltSTU 2017
+1. Elementary
